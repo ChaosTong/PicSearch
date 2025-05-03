@@ -22,3 +22,5 @@ PicSearch 是一个以图搜图的页面，提供了标记选中框和从图片�
     ```sh
     git clone https://github.com/ChaosTong/PicSearch.git
     ```
+
+![Visited By](https://count.easyulife.com/get/@PicSearch?theme=gelbooru)
